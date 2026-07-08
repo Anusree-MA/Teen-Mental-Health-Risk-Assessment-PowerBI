@@ -14,7 +14,7 @@
 
 ## Mental Health Insights
 
-![Insights](Assets/insight.png)
+![Insights](Assets/Insight.png)
 
 ---
 
