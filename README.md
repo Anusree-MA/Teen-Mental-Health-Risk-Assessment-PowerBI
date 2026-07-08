@@ -274,13 +274,13 @@ LICENSE
 
 ---
 
-# Author
+## 👩‍💻 Author
 
 ### Anusree M A
 
-Data Analyst
+**Data Analyst**
 
-Skills
+### Skills
 
 - Power BI
 - Tableau
@@ -289,12 +289,8 @@ Skills
 - DAX
 - Power Query
 
-LinkedIn:
-linkedin.com/in/anusree-ma
+### Connect with Me
 
-GitHub:
-https://github.com/Anusree-MA
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anusree%20M%20A-blue?logo=linkedin)](https://linkedin.com/in/anusree-ma)
 
----
-
-If you found this project useful, consider giving it a ⭐.
+[![GitHub](https://img.shields.io/badge/GitHub-Anusree--MA-black?logo=github)](https://github.com/Anusree-MA)
