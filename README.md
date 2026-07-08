@@ -255,8 +255,8 @@ This dashboard helps educational institutions
 
 ```
 Assets/
-Dataset/
-Reports/
+Teen_Mental_Health_Dataset.csv/
+Teen_Mental.pbix/
 README.md
 LICENSE
 ```
@@ -290,10 +290,10 @@ Skills
 - Power Query
 
 LinkedIn:
-(Add your LinkedIn)
+(linkedin.com/in/anusree-ma)
 
 GitHub:
-(Add your GitHub)
+(https://github.com/Anusree-MA)
 
 ---
 
