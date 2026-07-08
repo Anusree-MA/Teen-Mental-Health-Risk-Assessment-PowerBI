@@ -290,10 +290,10 @@ Skills
 - Power Query
 
 LinkedIn:
-(linkedin.com/in/anusree-ma)
+linkedin.com/in/anusree-ma
 
 GitHub:
-(https://github.com/Anusree-MA)
+https://github.com/Anusree-MA
 
 ---
 
